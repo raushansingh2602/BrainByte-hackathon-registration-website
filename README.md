@@ -176,7 +176,7 @@ To deploy your own copy:
 
 
 ### Mobile View
-![Mobile View](screenshots/mobileview.png)
+![Mobile View](screenshots/mobile.png)
 
 ---
 
