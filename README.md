@@ -150,22 +150,33 @@ To deploy your own copy:
 ##  Screenshots
 
 ### Home Page
-(Add screenshot)
+![Home Page](screenshots/home.png)
+
+---
 
 ### About Section
-(Add screenshot)
+![About Section](screenshots/about.png)
+
+---
 
 ### Schedule Section
-(Add screenshot)
+![Schedule](screenshots/Schedule.png)
+
+---
 
 ### Prize Section
-(Add screenshot)
+![Prizes](screenshots/prizes.png)
+
+---
 
 ### Sponsors Section
-(Add screenshot)
+![Sponsors](screenshots/sponsers.png)
+
+---
+
 
 ### Mobile View
-(Add screenshot)
+![Mobile View](screenshots/mobile view.png)
 
 ---
 
