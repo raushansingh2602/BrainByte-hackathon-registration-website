@@ -165,7 +165,7 @@ To deploy your own copy:
 ---
 
 ### Prize Section
-![Prizes](screenshots/prizes.png)
+![Prizes](screenshots/Prizes.png)
 
 ---
 
@@ -176,7 +176,7 @@ To deploy your own copy:
 
 
 ### Mobile View
-![Mobile View](screenshots/mobile view.png)
+![Mobile View](screenshots/mobileview.png)
 
 ---
 
