@@ -117,7 +117,7 @@ BrainByte/
 
 1. Download or clone the repository.
 
-
+https://github.com/raushansingh2602/BrainByte-hackathon-registration-website.git
 
 2. Open the project folder.
 
